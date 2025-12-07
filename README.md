@@ -1,5 +1,6 @@
 # Steganography-
 LSB-based image steganography in C to securely hide and extract secret data.
+
 🔐 Image Steganography Using LSB in C
 
 This project implements Image Steganography using the Least Significant Bit (LSB) technique in C programming. It securely hides secret text inside BMP images and retrieves it without causing any visible change to the image. The project demonstrates real-world concepts of data security, file handling, and bit manipulation.
@@ -35,6 +36,7 @@ BMP Image Processing
 VS Code
 
 Linux / WSL
+
 ✅ Advantages
 
 High level of data security
